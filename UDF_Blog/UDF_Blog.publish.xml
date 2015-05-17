@@ -4,9 +4,7 @@
     <IncludeCompositeObjects>True</IncludeCompositeObjects>
     <TargetDatabaseName>AdventureWorks2014</TargetDatabaseName>
     <DeployScriptFileName>UDF_Blog.sql</DeployScriptFileName>
-    <BlockWhenDriftDetected>False</BlockWhenDriftDetected>
-    <RegisterDataTierApplication>False</RegisterDataTierApplication>
-    <ProfileVersionNumber>1</ProfileVersionNumber>
     <TargetConnectionString>Data Source=DEVILLIERSACER\SQLEXPRESS;Integrated Security=True;Pooling=False</TargetConnectionString>
+    <ProfileVersionNumber>1</ProfileVersionNumber>
   </PropertyGroup>
 </Project>

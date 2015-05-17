@@ -18,8 +18,6 @@ public partial class UserDefinedFunctions
         WindowsIdentity currentIdentity = null;
         WindowsImpersonationContext impersonatedIdentity = null;
         if (SqlContext.WindowsIdentity != null)
-
-
         {
             currentIdentity = SqlContext.WindowsIdentity;
             impersonatedIdentity = currentIdentity.Impersonate();
