@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "UDF_Blog", "UDF_Blog\UDF_Blog.sqlproj", "{E4237604-5FBD-43EF-A218-F85F3D8CAE81}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://jacob-dutoit.visualstudio.com/defaultcollection
+		SccProjectUniqueName0 = UDF_Blog\\UDF_Blog.sqlproj
+		SccProjectName0 = UDF_Blog
+		SccLocalPath0 = UDF_Blog
+		SccLocalPath1 = .
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4237604-5FBD-43EF-A218-F85F3D8CAE81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4237604-5FBD-43EF-A218-F85F3D8CAE81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4237604-5FBD-43EF-A218-F85F3D8CAE81}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E4237604-5FBD-43EF-A218-F85F3D8CAE81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4237604-5FBD-43EF-A218-F85F3D8CAE81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4237604-5FBD-43EF-A218-F85F3D8CAE81}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
